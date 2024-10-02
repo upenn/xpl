@@ -1,2 +1,2 @@
-# University off  Pennsylvania
+# University of Pennsylvania
 # xpl - X-ray Physics Lab
